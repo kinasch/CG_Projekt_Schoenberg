@@ -1,0 +1,8 @@
+*.zip
+classes
+lib
+bin
+.idea
+CG.iml
+.classpath
+.project
